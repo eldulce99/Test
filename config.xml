@@ -1,0 +1,16 @@
+<widget id="com.example.hello" version="0.0.1">
+	<name>The New Test App</name>
+	<description>
+	Learning PhoneGap can be fun
+		</description>
+	<author email="tikishabudin@gmail.com" href="http://www.tikishabudin.com">
+
+		Tiki Shabudin
+	</author>	
+	
+	<content src="index.html"/>
+	<access origin="*" />
+	
+	<icon src="images/icon.jpg" />
+	<splash src="a.jpg" />
+</widget>	
